@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#010101;}
+</style>
+<g id="Guide">
+	<path class="st0" d="M404,418l-96-97l13-14l97,98L404,418z M418,107l-97,98l-13-14l96-97L418,107z M108,94l98,97l-15,14l-97-98
+		L108,94z M94,405l97-98l15,14l-98,97L94,405z"/>
+</g>
+<g id="Crosshair">
+	<circle id="XMLID_6_" class="st0" cx="256" cy="256" r="18.953"/>
+</g>
+</svg>
