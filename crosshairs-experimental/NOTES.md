@@ -1,7 +1,7 @@
 # Notes on Crosshair Experimentation
 Any misc information and anything learned while trying to improve crosshairs will be dumped here.
 
-rough video explaining steps: https://youtu.be/4E8jmRcyjBE
+rough video explaining steps: https://youtu.be/m1UsOo6VKWI
 
 ### Exporting Original SVGs
 * Open original font in FontForge
